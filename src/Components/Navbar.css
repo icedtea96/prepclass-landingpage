@@ -16,7 +16,7 @@ nav {
 }
 
 .button {
-    padding: 5px 10px;
+    margin-bottom: 5px;
 }
 
 #navbar li{
@@ -25,10 +25,10 @@ nav {
     position: relative;
 }
 
-#navbar li a{
+#navbar li{
     text-decoration: none;
-    font-size: 2rem;
-    font-weight: 000;
+    font-size: 1.5rem;
+    font-weight: 400;
     color: #000;
     transition: 0.2s ease-in-out;
 }

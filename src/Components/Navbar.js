@@ -25,7 +25,7 @@ const Navbar = () => {
                     </ul>
                 </div>
                 <div className='navbar-right'>
-                    <Button color='primary' id='navbar' size='lg'>
+                    <Button color='primary' id='navbar' className='button' size='lg'>
                         Daftar
                     </Button>{' '}
                 </div>
